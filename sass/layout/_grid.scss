@@ -1,0 +1,24 @@
+
+/* .row:not(:last-child){
+  margin-bottom: 50px;
+}
+.row::after{
+  content: "";
+  display: table;
+  clear: both;
+}
+[class^="col"]{
+  background-color: #c05020;
+  height: 100px;
+  float: left;
+  text-align: center;
+}
+[class^="col"]:not(:last-child){
+  margin-right: 30px;
+}
+.col-1-of-3{
+  width: calc( (100% - 2 * 30px) / 3 );
+}
+.col-2-of-3{
+  width: calc( 2 * (100% - 2 * 30px) / 3  + 30px );
+} */
